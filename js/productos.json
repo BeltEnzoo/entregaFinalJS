@@ -1,0 +1,145 @@
+[
+    {
+        "id": "oxi-01",
+        "titulo": "Oximetro 01",
+        "imagen": "./img/oximetros/oxi-01.jfif",
+        "categoria": {
+            "nombre": "SpO2",
+            "id": "Oximetros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "oxi-02",
+        "titulo": "Oximetro 02",
+        "imagen": "./img/oximetros/oxi-02.jfif",
+        "categoria": {
+            "nombre": "SpO2",
+            "id": "Oximetros"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "oxi-03",
+        "titulo": "Oximetro 03",
+        "imagen": "./img/oximetros/oxi-03.jfif",
+        "categoria": {
+            "nombre": "SpO2",
+            "id": "Oximetros"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "oxi-04",
+        "titulo": "Oximetro 04",
+        "imagen": "./img/oximetros/oxi-04.jfif",
+        "categoria": {
+            "nombre": "SpO2",
+            "id": "Oximetros"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "oxi-05",
+        "titulo": "Oximetro 05",
+        "imagen": "./img/oximetros/oxi-05.jfif",
+        "categoria": {
+            "nombre": "SpO2",
+            "id": "Oximetros"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "oxi-06",
+        "titulo": "Oximetro 06",
+        "imagen": "./img/oximetros/oxi-06.jfif",
+        "categoria": {
+            "nombre": "SpO2",
+            "id": "Oximetros"
+        },
+        "precio": 7500
+    },
+    {
+        "id": "oxi-07",
+        "titulo": "Oximetro 07",
+        "imagen": "./img/oximetros/oxi-07.jfif",
+        "categoria": {
+            "nombre": "SpO2",
+            "id": "Oximetros"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "PNI-01",
+        "titulo": "Tensiometro 01",
+        "imagen": "./img/tensiometros/PNI - 1.jfif",
+        "categoria": {
+            "nombre": "PNI",
+            "id": "Tensiometros"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "PNI-02",
+        "titulo": "Tensiometro 02",
+        "imagen": "./img/tensiometros/PNI - 2.jfif",
+        "categoria": {
+            "nombre": "PNI",
+            "id": "Tensiometros"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "PNI-03",
+        "titulo": "Tensiometro 03",
+        "imagen": "./img/tensiometros/PNI - 3.jfif",
+        "categoria": {
+            "nombre": "PNI",
+            "id": "Tensiometros"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PNI-04",
+        "titulo": "Tensiometro 04",
+        "imagen": "./img/tensiometros/PNI - 4.jfif",
+        "categoria": {
+            "nombre": "PNI",
+            "id": "Tensiometros"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "ETCP-01",
+        "titulo": "Estetoscopio 01",
+        "imagen": "./img/estetoscopios/esteto - 1.jfif",
+        "categoria": {
+            "nombre": "ETCP",
+            "id": "Estetoscopios"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "ETCP-02",
+        "titulo": "Estetoscopio 02",
+        "imagen": "./img/estetoscopios/esteto - 2.jfif",
+        "categoria": {
+            "nombre": "ETCP",
+            "id": "Estetoscopios"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "ETCP-03",
+        "titulo": "Estetoscopio 03",
+        "imagen": "./img/estetoscopios/esteto - 3.jfif",
+        "categoria": {
+            "nombre": "ETCP",
+            "id": "Estetoscopios"
+        },
+        "precio": 10000
+    }
+
+
+    
+]
